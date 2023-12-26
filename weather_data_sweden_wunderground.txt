@@ -1,0 +1,15 @@
+Place: Lund
+Weather Data:89 °FSunny
+
+Place: Stockholm
+Weather Data:90 °FSunny
+
+Place: Gothenburg
+Weather Data:89 °FSunny
+
+Place: Malmo
+Weather Data:90 °FSunny
+
+Place: Uppsala
+Weather Data:89 °FSunny
+

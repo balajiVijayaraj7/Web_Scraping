@@ -1,0 +1,15 @@
+Place: Lund
+Weather Data:16 °C
+
+Place: Stockholm
+Weather Data:14 °C
+
+Place: Gothenburg
+Weather Data:No data found
+
+Place: Malmo
+Weather Data:16 °C
+
+Place: Borlänge
+Weather Data:No data found
+
